@@ -3,6 +3,7 @@
 _Useful Resources & Links_
 
 - [Official React documentation](https://reactjs.org/)
+- [React Developer Roadmap](https://roadmap.sh/react)
 
 ### 1. Introduction
 
